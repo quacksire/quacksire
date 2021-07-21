@@ -2,6 +2,8 @@
 
 Currently leaning React (JSX)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=child-duckling&show_icons=true&theme=solarized-dark)
 Current Languages (In order of profinincy ): JS, HTML, Python, Shell Script, and CSS
 
 .
