@@ -1,8 +1,9 @@
 ### Hi there 👋
-![Child-ducklings's GitHub stats](https://github-readme-stats.vercel.app/api?username=child-duckling&show_icons=true&theme=solarized-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=child-duckling&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/569910296303632414)](https://discord.com/users/569910296303632414)
 
-.
+![Quacksire's GitHub stats](https://github-readme-stats.vercel.app/api?username=quacksire&show_icons=true&theme=solarized-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quacksire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **child-duckling/child-duckling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
