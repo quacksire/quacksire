@@ -1,6 +1,3 @@
-### Hi there 👋
-[![Discord Presence]()](https://discord.com/users/569910296303632414)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quacksire&show_icons=true&theme=transparent&hide_border=true" />
 </a>
@@ -9,6 +6,9 @@
 </a>
 <a href="https://discord.com/users/569910296303632414">
   <img align="center" src="https://lanyard.cnrad.dev/api/569910296303632414?animated=true&bg=FF000000" />
+</a>
+<!--<a href="https://discord.com/users/569910296303632414">
+  <iframe align="center" src="https://connect.cidercollective.dev/relay/widget/2FWF8k6PWLOoRt5sXIMGxhXIa7DoC2" />
 </a>
 
 
