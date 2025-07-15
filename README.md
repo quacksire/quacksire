@@ -1,12 +1,9 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quacksire&show_icons=true&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/quacksire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quacksire&layout=compact&theme=transparent&hide_border=true&hide=html&exclude_repo=caltrans-cameras" />
-</a>
-<a href="https://discord.com/users/569910296303632414">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quacksire&show_icons=true&theme=transparent&hide_border=true&compact=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=quacksire&show_icons=true&theme=transparent&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quacksire&layout=compact&theme=transparent&hide_border=true&hide=html&exclude_repo=caltrans-cameras" />
   <img align="center" src="https://lanyard.cnrad.dev/api/569910296303632414?animated=true&bg=FF000000" />
-</a>
+</div>
 <!--<a href="https://discord.com/users/569910296303632414">
   <iframe align="center" src="https://connect.cidercollective.dev/relay/widget/2FWF8k6PWLOoRt5sXIMGxhXIa7DoC2" />
 </a>
